@@ -1,0 +1,54 @@
+{
+  "banks": [
+    {"id": 1, "bank_name": "中国银行"},
+    {"id": 2, "bank_name": "中国建设银行"},
+    {"id": 3, "bank_name": "中国农业银行 "},
+    {"id": 4, "bank_name": "中国工商银行"},
+    {"id": 5, "bank_name": "招商银行"},
+    {"id": 6, "bank_name": "交通银行"},
+    {"id": 7, "bank_name": "上海浦东发展银行 "},
+    {"id": 8, "bank_name": "中国民生银行 "},
+    {"id": 9, "bank_name": "兴业银行 "},
+    {"id": 10, "bank_name": "光大银行 "},
+    {"id": 11, "bank_name": "南京银行 "},
+    {"id": 12, "bank_name": "广东发展银行 "},
+    {"id": 13, "bank_name": "中信银行"},
+    {"id": 14, "bank_name": "华夏银行 "},
+    {"id": 15, "bank_name": "北京银行 "},
+    {"id": 16, "bank_name": "恒丰银行"},
+    {"id": 17, "bank_name": "盛京银行"},
+    {"id": 18, "bank_name": "上海银行 "},
+    {"id": 19, "bank_name": "渤海银行 "},
+    {"id": 20, "bank_name": "吉林银行 "},
+    {"id": 21, "bank_name": "哈尔滨银行 "},
+    {"id": 22, "bank_name": "青岛银行 "},
+    {"id": 23, "bank_name": "东莞银行 "},
+    {"id": 24, "bank_name": "杭州银行 "},
+    {"id": 25, "bank_name": "浙商银行 "},
+    {"id": 26, "bank_name": "包商银行 "},
+    {"id": 27, "bank_name": "徽商银行 "},
+    {"id": 28, "bank_name": "重庆银行 "},
+    {"id": 29, "bank_name": "齐鲁银行 "},
+    {"id": 30, "bank_name": "韩国新韩银行"},
+    {"id": 31, "bank_name": "汇丰银行 "},
+    {"id": 32, "bank_name": "恒生银行 "},
+    {"id": 33, "bank_name": "东亚银行 "},
+    {"id": 34, "bank_name": "花旗银行 "},
+    {"id": 35, "bank_name": "渣打银行 "},
+    {"id": 36, "bank_name": "德意志银行 "},
+    {"id": 37, "bank_name": "星展银行 "},
+    {"id": 38, "bank_name": "瑞士银行 "},
+    {"id": 39, "bank_name": "平安银行"},
+    {"id": 40, "bank_name": "中国邮政储蓄银行"},
+    {"id": 42, "bank_name": "北京农村商业银行"},
+    {"id": 43, "bank_name": "宁波银行"}
+  ],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+
+}
